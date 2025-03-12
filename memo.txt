@@ -1,0 +1,11 @@
+20250312_LS/
+├── ls.html      # メインのHTMLファイル
+├── style.css    # CSSファイル（今回作成）
+├── script.js    # JavaScriptファイル（必要に応じて作成）
+└── images/      # 画像を格納するフォルダ
+	├── coffee-bean.jpg
+	├── roasting.jpg
+	├── workflow.jpg
+	├── ethiopia.jpg
+	├── colombia.jpg
+	└── brazil.jpg
